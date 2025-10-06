@@ -1,16 +1,13 @@
+- National Scholarship, 2023
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-Class Academic Scholarship, NEU, 2023
 
-- National Scholarship for Graduate Student, 2024.
+- Future Technology Taihu Scholarship, 2023
 
-- First-Prize Scholarship (CUMT), 2024.
+- Meritorious Award in American College Student Mathematical Modeling Contest
 
-- First-Prize Scholarship (CUMT), 2023.
+- First Prize in National College Student Mathematical Modeling Competition (Provincial Level), 2024
 
-- Freshman Scholarship (CUMT), 2022.
+- First Prize in APMCM Asia and Pacific Mathematical Contest in Modeling, 2024
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- Outstanding Academic Performance Award, College of Software Engineering, NEU (Top 30/2200), 2023
