@@ -9,8 +9,8 @@ He is currently pursuing Bachelor's degree at Software college in Northeastern U
 Email: 20227018[at]stu.edu.edu.cn / larrywang1019@[at]outlook.com
 
 #### Education
-M.E., Software Engineering(Artificial Intelligence), Northeastern University(China), 2022—2026.\
-B.E., Computer Science and Technology, China University of Mining and Technology, 2026—2029.
+M.E., Computer Science and Technology, China University of Mining and Technology, 2026—2029.\
+B.E., Software Engineering (Artificial Intelligence), Northeastern University(China), 2022—2026.
 
 #### Research Interests
 Multi-agent Reinforcement Learning, Software-defined Networks, Food Computing, Embodied Artificial Intelligence.
