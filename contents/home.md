@@ -15,5 +15,5 @@ M.E., Computer Science and Technology, Institute of Computing Technology (ICT), 
 B.E., Software Engineering (Artificial Intelligence), Northeastern University(China), 2022—2026.
 
 #### Research Interests
-Multi-agent Reinforcement Learning, Software-defined Networks, Food Computing, Embodied Artificial Intelligence.
+Food Computing, Multi-modal Fusion, Multi-agent Reinforcement Learning, Software-defined Networks, Embodied Artificial Intelligence.
 
