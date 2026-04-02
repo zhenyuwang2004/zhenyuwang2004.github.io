@@ -4,7 +4,7 @@
 
 - <strong>Z. Wang</strong>, C. Lin*, G. Han*, S. Zhu, D. Jia, Y. Zhang, and S. Wang.   <strong>IEEE Transactions on Mobile Computing (CCF-A)</strong> [[Paper]](https://github.com/senli1073/LaNCor) -->
 
-#### Published as first author or second author (supervisor as the first author)
+#### Selected publications
 
 - A Reward Cooperative Distribution and Tracing Mechanism-Enabled MARL Algorithm for Adaptive Routing in SDN-Enabled UASNs.  <strong>Z. Wang</strong>, C. Lin*, G. Han*, G. Wang, D. Jia, Y. Zhang, and S. Wang.   <strong>IEEE Transactions on Mobile Computing (CCF-A)</strong> [[Paper]](https://ieeexplore.ieee.org/abstract/document/11397208)
 
