@@ -1,3 +1,3 @@
-#### Fun facts
+<!-- #### Fun facts
 
-I am a fan of Kim Minjeong (Winter) from aespa.
+I am a fan of Kim Minjeong (Winter) from aespa. -->
