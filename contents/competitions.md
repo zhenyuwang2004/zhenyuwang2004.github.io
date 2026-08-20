@@ -1,4 +1,4 @@
-- Meritorious Award in American College Student Mathematical Modeling Contest
+- Meritorious Winner in American College Student Mathematical Modeling Contest
 
 - First Prize in National College Student Mathematical Modeling Competition (Provincial Level), 2024
 
