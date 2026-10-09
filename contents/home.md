@@ -10,12 +10,12 @@ I have already obtained Bachelor's degree from Software College, Northeastern Un
 
 #### Contact
 
-Email: 20227018[at]stu.edu.edu.cn / larrywang1019[at]outlook.com
+Email: larrywang1019 [at] outlook.com
 
 #### Education
 M.E., Computer Science and Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), 2026—2029.\
 B.E., Software Engineering (Artificial Intelligence), Northeastern University(China), 2022—2026.
 
 #### Research Interests
-Food Computing, Multi-modal Fusion, Agentic RL, Multi-agent Reinforcement Learning, Software-defined Networks.
+Food Computing, Multi-modal Fusion, Multi-agent Systems, Multi-agent Reinforcement Learning, Software-defined Networks.
 
